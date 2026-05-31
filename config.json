@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsfelete",
+        "uuid": 30810020,
+        "checksum": "48xdf4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
